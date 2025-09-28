@@ -1,4 +1,4 @@
-For any contributions or changes I make or publish on Github:
+For any contributions or changes I make or publish or have made or have published on this Github account, whether code or text, whether in issues, PRs, commits, or anywhere else:
 
 This is free and unencumbered software released into the public domain.
 
